@@ -1,2 +1,16 @@
-# calculadora-java
-Projeto de calculadora desenvolvido durante os estudos no Entra21.
+# Calculadora Java
+
+## Tecnologias
+- Java
+
+## Funcionalidades
+- Soma
+- Subtração
+- Multiplicação
+- Divisão
+
+## Objetivo
+Projeto criado durante meus estudos no Entra21 para praticar lógica de programação e programação Java.
+
+## Autor
+Laura Costa
